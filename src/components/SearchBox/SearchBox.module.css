@@ -1,0 +1,21 @@
+.SearchBox {
+  margin-top: 20px;
+  display: block;
+  margin-bottom: 15px;
+}
+
+.SearchTitle {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.SearchInput {
+  max-width: 364px;
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}

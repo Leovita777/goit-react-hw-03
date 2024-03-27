@@ -1,0 +1,6 @@
+.ContactList {
+  list-style: none;
+  border: 2px solid grey;
+  padding: 20px;
+  margin: 0;
+}
